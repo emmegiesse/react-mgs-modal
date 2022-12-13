@@ -1,6 +1,6 @@
 {
   "name": "react-mgs-modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "modal component",
   "main": "mod/index.js",
   "module": "mod/index.js",
