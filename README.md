@@ -10,5 +10,8 @@ yarn add mgs-modal
 ```
 
 ## How to use it
-
+```js
+import React, { useState } from 'react';
+import Modal from 'react-abc-modal';
+```
 
