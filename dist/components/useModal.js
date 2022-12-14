@@ -6,6 +6,8 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 require("core-js/modules/web.dom-collections.iterator.js");
 var _react = require("react");
+// import REACT
+
 const useModal = () => {
   const [isShowing, setIsShowing] = (0, _react.useState)(false);
   function toggle() {

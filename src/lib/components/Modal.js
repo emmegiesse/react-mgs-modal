@@ -57,7 +57,7 @@ const Overlay = styled.div`
     width: 100vw;
     height: 100vh;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: darkgrey;
     font-family: Roboto;
 `
 
@@ -86,7 +86,7 @@ const ModalHeader = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color:${props => props.primary || "rgb(89, 111, 211)"};
+    background-color:${props => props.primary || "lightgrey"};
 `
 
 const ModalTitle = styled.h1`
@@ -103,11 +103,11 @@ const ModalBtn = styled.div`
     cursor: pointer;
     width: 25px;
     height:25px;
-    background-color:${props => props.primary || "rgb(89, 111, 211)"};
+    background-color:${props => props.primary || "white"};
     border-radius:50%;
     display:flex;
     justify-content:center;
-    color:${props => props.secondary || "white"};
+    color:${props => props.secondary || "black"};
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 `

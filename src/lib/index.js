@@ -1,4 +1,4 @@
-import Modal from './components/Modal.js';
-import useModal from './style/useModal.js'
+import Modal from "./components/Modal";
+import useModal from "./components/useModal";
 
-export default { Modal, useModal }
+export { Modal, useModal }
