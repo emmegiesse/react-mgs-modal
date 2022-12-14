@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/emmegiesse/react-mgs-modal"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,5 +48,16 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.0"
-  }
+  },
+  "description": "modal  ## Installation !React is needed to use this component In you terminal enter :",
+  "keywords": [
+    "react-component",
+    "custom modal"
+  ],
+  "author": "mgs",
+  "license": "ISC",
+  "tags": [
+    "react",
+    "modal"
+  ]
 }
