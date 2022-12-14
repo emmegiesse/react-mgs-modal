@@ -40,7 +40,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.10",
     "@babel/polyfill": "^7.12.1",
